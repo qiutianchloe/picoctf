@@ -27,7 +27,7 @@ def nth_root(x, n):
 
 root = nth_root(c, 3)
 print(hex(root)[2:-1].decode("hex"))
-# True
+
 # phi = (p-1)*(q-1)
 
 # d = inverse(e, phi)
